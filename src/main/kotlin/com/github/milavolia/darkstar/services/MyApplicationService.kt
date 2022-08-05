@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.milavolia.darkstar.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.milavolia.darkstar.MyBundle
 
 class MyApplicationService {
 
